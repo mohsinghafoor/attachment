@@ -3,12 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "actionsheet-react": "^1.0.14",
+    "axios": "^0.24.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-feather": "^2.0.9",
+    "react-file-utils": "^1.1.8",
+    "react-multiple-image-uploader": "^1.0.3",
     "react-scripts": "5.0.0",
+    "stream-chat": "^5.0.1",
+    "stream-chat-react": "^6.12.2",
     "web-vitals": "^2.1.2"
   },
   "scripts": {
